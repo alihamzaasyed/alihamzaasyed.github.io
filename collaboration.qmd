@@ -1,13 +1,27 @@
 ---
-title: "Collaboration"
 format:
   html:
     theme:
       light: flatly
       dark: darkly
-    css: styles.css
+    css: collab.css
     toc: false
-    page-layout: article
 ---
 
-Collabs will go here. . . 
+::: page-header
+# Collaborators
+:::
+
+It has been an honor to collaborate with leading researchers and experts in the field.
+
+::::::::::::::: collaborator-grid
+<!-- To add a new collaborator, copy one of these blocks -->
+
+::: {.g-col .collaborator-card}
+![](){fig-alt="Alt text for Image 1"}
+
+[ABC]( )
+
+Professor
+:::
+
