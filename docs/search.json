@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "# This is the homepage"
+    "text": "I’m Ali Hamza Abidi, a PhD candidate in Applied Mathematics at Texas A&M University, working under the guidance of Dr. Jonathan W. Siegel.\nMy research connects theoretical mathematics with machine learning, with a focus on approximation theory, optimization, and theoretical deep learning.\nMy work lies at the intersection of pure mathematics and artificial intelligence. I study how invariant neural networks, transformers, and graph neural networks approximate complex functions, explore sparsity-aware optimization methods for in-context learning and generalizability, and develop computational tools such as scikit-rom, an open-source Python library for reduced-order modeling of PDEs.\nI have maintained a 4.0 GPA in my doctoral program following a 3.99 GPA in my undergraduate studies at the University of Houston. My academic performance has been recognized through the Charles P. Benner Scholarship and multiple Academic Excellence Awards.\nBeyond research, I serve as a teaching assistant for calculus courses and conduct Python workshops. I am an active member of AMS, SIAM, and Pi Mu Epsilon, and a founding member of Cougar Mathletics and the Theology and Philosophy Academic Club.\nCurrently, I am preparing publications for venues such as JMLR and ICLR, with contributions on invariant learning and sharpness-aware optimization. My aim is to advance mathematical theory while keeping it practical and impactful for real-world applications.\nFluent in English, Urdu, Hindi, and Arabic, I bring a global perspective to collaborative research and believe that diversity strengthens scientific inquiry."
   },
   {
     "objectID": "collaboration.html",
@@ -40,5 +40,47 @@
     "title": "Publications",
     "section": "",
     "text": "Publications will go here. . ."
+  },
+  {
+    "objectID": "index.html#academic-excellence",
+    "href": "index.html#academic-excellence",
+    "title": "About",
+    "section": "Academic Excellence",
+    "text": "Academic Excellence\nI have maintained a 4.0 GPA during my doctoral studies, following a 3.99 GPA in my undergraduate degree at the University of Houston.\nMy academic performance has been recognized through multiple awards, including the Charles P. Benner Scholarship and several Academic Excellence Awards."
+  },
+  {
+    "objectID": "index.html#beyond-the-classroom",
+    "href": "index.html#beyond-the-classroom",
+    "title": "About",
+    "section": "Beyond the Classroom",
+    "text": "Beyond the Classroom\nAlongside research, I serve as a teaching assistant for calculus courses and conduct Python workshops.\nI am actively engaged with the mathematical community as a member of AMS, SIAM, and Pi Mu Epsilon, and co-founded Cougar Mathletics and the Theology and Philosophy Academic Club."
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "About",
+    "section": "Current Focus",
+    "text": "Current Focus\nI am preparing upcoming publications for venues such as JMLR and ICLR, highlighting new insights into invariant learning and sharpness-aware optimization.\nMy goal is not only to advance mathematical knowledge but also to make it practical and accessible for real-world challenges."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "I am Ali Hamza Abidi, a PhD candidate in Applied Mathematics at Texas A&M University, where I work under the guidance of Dr. Jonathan W. Siegel.\nMy research bridges theoretical mathematics and practical machine learning, with a focus on approximation theory, optimization, and theoretical deep learning."
+  },
+  {
+    "objectID": "index.html#research-innovation",
+    "href": "index.html#research-innovation",
+    "title": "About",
+    "section": "Research & Innovation",
+    "text": "Research & Innovation\nMy work lies at the intersection of pure mathematics and modern AI. Current interests include:\n\nApproximation Theory of Neural Networks — studying how invariant networks, transformers, and graph neural networks approximate complex functions.\n\nOptimization Theory — developing sparsity-aware minimization methods with applications to in-context learning and transformer generalizability.\n\nComputational Mathematics — building open-source tools such as scikit-rom, a Python library for reduced-order modeling to solve PDEs more efficiently."
+  },
+  {
+    "objectID": "index.html#languages",
+    "href": "index.html#languages",
+    "title": "About",
+    "section": "Languages",
+    "text": "Languages\nFluent in English, Urdu, Hindi, and Arabic, I bring a global perspective to collaborative research and believe that diversity strengthens scientific inquiry."
   }
 ]

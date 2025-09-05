@@ -10,5 +10,16 @@ image: profile.jpg
 about:
   template: jolla
 ---
- 
- # This is the homepage
+
+I'm **Ali Hamza Abidi**, a PhD candidate in Applied Mathematics at **Texas A&M University**, working under the guidance of **Dr. Jonathan W. Siegel**.  
+My research connects *theoretical mathematics* with *machine learning*, with a focus on **approximation theory, optimization, and theoretical deep learning**.  
+
+My work lies at the intersection of pure mathematics and artificial intelligence. I study how invariant neural networks, transformers, and graph neural networks approximate complex functions, explore sparsity-aware optimization methods for in-context learning and generalizability, and develop computational tools such as **scikit-rom**, an open-source Python library for reduced-order modeling of PDEs.  
+
+I have maintained a **4.0 GPA** in my doctoral program following a **3.99 GPA** in my undergraduate studies at the **University of Houston**. My academic performance has been recognized through the **Charles P. Benner Scholarship** and multiple **Academic Excellence Awards**.  
+
+Beyond research, I serve as a **teaching assistant for calculus courses** and conduct **Python workshops**. I am an active member of **AMS, SIAM, and Pi Mu Epsilon**, and a founding member of **Cougar Mathletics** and the **Theology and Philosophy Academic Club**.  
+
+Currently, I am preparing publications for venues such as **JMLR** and **ICLR**, with contributions on **invariant learning** and **sharpness-aware optimization**. My aim is to advance mathematical theory while keeping it practical and impactful for real-world applications.  
+
+Fluent in **English, Urdu, Hindi, and Arabic**, I bring a global perspective to collaborative research and believe that diversity strengthens scientific inquiry.
