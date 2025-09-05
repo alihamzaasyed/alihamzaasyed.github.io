@@ -1,66 +1,64 @@
-/* css styles */
+/* --- Import Google Fonts --- */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
-
-
+/* --- Body Font --- */
 body {
-  font-family: Lora, Noto Sans, Lora, Helvetica, Arial, sans-serif;
+  font-family: 'PT Serif', Cambria, Georgia, serif;
+  color: #222; /* Default text color */
 }
 
-
+/* --- Headings --- */
 h1, h2, h3, h4, h5, h6 {
-  font-family: Roboto Slab, Helvetica, Arial, sans-serif;
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  color: #2F3C7E; /* Optional: match navbar for consistency */
 }
 
-.navbar-nav > li > a,
+/* --- Navbar --- */
+.navbar {
+  background-color: #2F3C7E; /* Updated navbar color */
+  border-bottom: 2px solid #dee2e6;
+  padding-top: 1.7rem;
+  padding-bottom: 1rem;
+}
+
+/* Navbar Brand */
 .navbar-brand {
-  font-family: Lora, Roboto Slab, Helvetica, Arial, sans-serif;
+  font-family: 'Frank Ruhl Libre', serif;
+  color: #FBEAEB !important;
+  font-weight: 700;
 }
 
+/* Navbar Links */
+.navbar-nav .nav-link {
+  font-family: 'Frank Ruhl Libre', serif;
+  color: #FBEAEB !important;
+  font-weight: 600;
+}
+
+/* Hover effect for Navbar Brand + Links */
+.navbar-brand:hover,
+.navbar-nav .nav-link:hover {
+  color: #ffffff !important;
+}
+
+/* --- Paragraphs --- */
 p {
-text-align: justify;
-text-justify: inter-word; /* spreads words evenly */
+  font-family: 'PT Serif', Cambria, Georgia, serif;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
-
-
-/* --- Controls row --- */
-.pub-controls {
-  display: flex;
-  gap: 0.75rem;
-  margin-bottom: 1.5rem;
-  flex-wrap: wrap;
-}
-.pub-controls input,
-.pub-controls select {
-  padding: 0.5rem 0.75rem;
-  border: 1px solid #ccc;
-  border-radius: 0.25rem;
-  font-size: 0.9rem;
-}
-
-
-/* --- Publication item --- */
-.pub-item {
-  display: flex;
-  gap: 0.75rem;
-  margin-bottom: 1.5rem;
-}
-.pub-icon {
-  font-size: 1.3rem;
-  line-height: 1;
-  margin-top: 0.2rem;
-}
+/* --- Publication Styles (inherit PT Serif) --- */
 .pub-content {
-  flex: 1;
+  font-family: 'PT Serif', Cambria, Georgia, serif;
 }
+
 .pub-content em {
   font-style: italic;
   color: #555;
-}
-.pub-content p {
-  margin: 0.2rem 0;
 }
 
 /* --- Buttons --- */
@@ -73,38 +71,32 @@ text-justify: inter-word; /* spreads words evenly */
   text-decoration: none;
   line-height: 1;
 }
+
 .btn-primary {
   background-color: #007bff;
   color: #fff;
 }
+
 .btn-outline {
   background-color: transparent;
   border: 1px solid #007bff;
   color: #007bff;
 }
+
 .btn-outline:hover,
 .btn-primary:hover {
   opacity: 0.85;
 }
 
-/* Increase navbar height by adding padding */
-.navbar {
-  padding-top: 1.7rem;   /* Increase vertical padding */
-  padding-bottom: 1rem;
-}
-
-
+/* --- Navbar Logo Sizing --- */
 .navbar .navbar-brand img {
-  height: 200px;   /* Change size here */
-  width: auto    /* Maintain aspect ratio */
+  height: 200px;
+  width: auto;
   margin-right: 10px;
 }
 
-
-/* Add this to the end of your styles.css file */
-
+/* --- Page Header --- */
 .page-header {
   text-align: center;
-  margin-bottom: 3rem; /* Adds some nice space below the header */
+  margin-bottom: 3rem;
 }
-
