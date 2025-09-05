@@ -1,0 +1,13 @@
+---
+title: "Collaboration"
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false
+    page-layout: article
+---
+
+Collabs will go here. . . 

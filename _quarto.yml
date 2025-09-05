@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ali Hamza Abidi, Syed"
+  
+  navbar:
+
+    left: 
+      - text: "Home"
+        file: index.qmd
+      - text: "Publications"
+        file: publication.qmd
+      - text: "Research"
+        file: research.qmd
+      - text: "Collaboration"
+        file: collaboration.qmd
+      - text: "CV"
+        file: cv.qmd
+        
+    right:
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/ali-hamza-abidi-syed/"
+        aria-label: LinkedIn
+      - icon: github
+        href: " "
+        aria-label: GitHub
+      - icon: envelope
+        href: "saabidi1@tamu.edu"
+        aria-label: Email
+      - icon: magnifying-glass
+        aria-label: Search
+        
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css

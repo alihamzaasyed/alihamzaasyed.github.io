@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "ac4c3277"
+  },
+  "about.qmd": {
+    "about.html": "f0535596"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "ec9b2d42"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "315ffbd1"
+  },
+  "collaboration.qmd": {
+    "collaboration.html": "e8bddb2e"
+  },
+  "cv.qmd": {
+    "cv.html": "2cc8f7de"
+  },
+  "Publication.qmd": {
+    "Publication.html": "16d0116a"
+  },
+  "research.qmd": {
+    "research.html": "a061ba57"
+  },
+  "docs/publication.qmd": {
+    "publication.html": "6a9650b8"
+  },
+  "publication.qmd": {
+    "publication.html": "b17c3ab6"
+  }
+}

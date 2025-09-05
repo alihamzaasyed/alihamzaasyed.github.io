@@ -1,0 +1,13 @@
+---
+title: "CV"
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false
+    page-layout: article
+---
+
+![](Syed CV.pdf){width=100% height=1000px}

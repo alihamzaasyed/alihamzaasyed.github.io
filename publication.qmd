@@ -1,0 +1,13 @@
+---
+title: "Publications"
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    page-layout: article
+---
+
+Publications will go here. . . 
